@@ -156,7 +156,8 @@ display: flex;
 #linkedin {
 width: 50px;
 height: auto;
-
+margin-top: 10px;
+padding-left: 50px;
 }
 
 #instagram {
